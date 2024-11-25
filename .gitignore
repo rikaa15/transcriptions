@@ -1,0 +1,11 @@
+transcription-441522-71525528e133.json
+.DS_Store
+.env
+Files/Audio/*
+!Files/Audio/.gitkeep
+Files/Video/*
+!Files/Video/.gitkeep
+Files/Transcription/GroundTruth/*
+!Files/Transcription/GroundTruth/.gitkeep
+Files/Transcription/Output/*
+!Files/Transcription/Output/.gitkeep
